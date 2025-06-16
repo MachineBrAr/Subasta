@@ -85,7 +85,3 @@ This Solidity smart contract implements a decentralized auction system on the bl
 * `getCommissionPercent()`: Returns the commission percentage.
 * `getAllUniqueBidders()`: Returns the list of all unique bidder addresses.
 * `getMaxBidders()`: Returns the maximum limit of bidders.
-
----
-
-¡Listo! Este contrato ahora combina la robustez y la claridad. Si tenés alguna otra idea o querés refinar algo más, no dudes en preguntar.
